@@ -1,6 +1,7 @@
 {
-  "name": "vue-dropdown-menu",
-  "version": "0.0.0",
+  "name": "@nathanbate/vue-dropdown-menu",
+  "version": "0.0.2",
+  "main": "src/App.vue",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
